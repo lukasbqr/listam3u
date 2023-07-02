@@ -1,0 +1,180 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="Int. América" tvg-name="Exitosa Noticias Perú",Exitosa Noticias Perú
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina (720p) [Geo-blocked]
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur (720p) [Not 24/7]
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2 MX" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png" group-title="MEXICO", HBO 2 MX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59064
+
+#EXTINF:-1 tvg-id="TBS1 ESP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png" group-title="MEXICO", TBS1 ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59110
+
+#EXTINF:-1 tvg-id="HBO SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="MEXICO", HBO SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59147
+
+#EXTINF:-1 tvg-id="BitMe SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bitme-mx.png" group-title="MEXICO", BitMe SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59160
+
+#EXTINF:-1 tvg-id="Golden SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-mx.png" group-title="MEXICO", Golden SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59175
+
+#EXTINF:-1 tvg-id="A&E ESP" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="MEXICO", A&E ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59122
+
+#EXTINF:-1 tvg-id="HBO MX" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="MEXICO", HBO MX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59131
+
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-cinema-ua.png" group-title="MEXICO", UNIVERSAL CRIME SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59138
+
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-classics-us.png" group-title="MEXICO", UNIVERSAL COMEDY SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59139
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANEL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-hits-us.png" group-title="MEXICO", UNIVERSAL CHANEL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59141
+
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-series-us.png" group-title="MEXICO", UNIVERSAL PREMIERE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59142
+
+#EXTINF:-1 tvg-id="Star SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-channel-us.png" group-title="MEXICO", Star SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59143
+
+#EXTINF:-1 tvg-id="HBO Family SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_lam.png" group-title="MEXICO", HBO Family SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59145
+
+#EXTINF:-1 tvg-id="HBO Plus SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="MEXICO", HBO Plus SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59146
+
+#EXTINF:-1 tvg-id="Multipremier SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/multipremier_mx.png" group-title="MEXICO", Multipremier SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59150
+
+#EXTINF:-1 tvg-id="Warner TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MEXICO", Warner TV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59151
+
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="MEXICO", Animal Planet SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59154
+
+#EXTINF:-1 tvg-id="BitMe SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bitme-mx.png" group-title="MEXICO", BitMe SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59160
+
+#EXTINF:-1 tvg-id="Cinecanal SD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinecanal-us.png" group-title="MEXICO", Cinecanal SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59165
+
+#EXTINF:-1 tvg-id="Cinemax SD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_lam.png" group-title="MEXICO", Cinemax SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59166
+
+#EXTINF:-1 tvg-id="FX Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png" group-title="MEXICO", FX Movies
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59172
+
+#EXTINF:-1 tvg-id="FX SD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="MEXICO", FX SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59173
+
+#EXTINF:-1 tvg-id="Golden SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-mx.png" group-title="MEXICO", Golden SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59175
+
+#EXTINF:-1 tvg-id="Golden Edge SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-edge-mx.png" group-title="MEXICO", Golden Edge SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59176
+
+#EXTINF:-1 tvg-id="Golden Plus SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-plus-mx.png" group-title="MEXICO", Golden Plus SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59177
+
+#EXTINF:-1 tvg-id="History SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="MEXICO", History SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59178
+
+#EXTINF:-1 tvg-id="Lifetime SD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-us.png" group-title="MEXICO", Lifetime SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59180
+
+#EXTINF:-1 tvg-id="Sony Channel SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="MEXICO", Sony Channel SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59183
+
+#EXTINF:-1 tvg-id="SyFy SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="MEXICO", SyFy SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59185
+
+#EXTINF:-1 tvg-id="TNT Series SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-series-us.png" group-title="MEXICO", TNT Series SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59187
+
+#EXTINF:-1 tvg-id="Universal Channel SD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/universal-channel-america-latina-us.png" group-title="MEXICO", Universal Channel SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59190
+
+#EXTINF:-1 tvg-id="HBO Plus HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO Plus HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70855
+
+#EXTINF:-1 tvg-id="HBO Family HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO Family HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70854
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD2" tvg-logo="noimage.png" group-title="MEXICO", COMEDY CENTRAL HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70902
+
+#EXTINF:-1 tvg-id="ESTRELLAS HD2" tvg-logo="noimage.png" group-title="MEXICO", ESTRELLAS HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70889
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD2" tvg-logo="noimage.png" group-title="MEXICO", STUDIO UNIVERSAL HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70866
+
+#EXTINF:-1 tvg-id="MX | INVESTIGATION DISCOVERY LQ R" tvg-logo="http://live.detodotvplay.com:8080/images/6d2073bc61d13a466482d32dbd9d1515.png" group-title="MEXICO", MX | INVESTIGATION DISCOVERY LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126393
+
+#EXTINF:-1 tvg-id="MX | TNT SERIES LQ R" tvg-logo="http://live.detodotvplay.com:8080/images/e2c420d928d4bf8ce0ff2ec19b371514.png" group-title="MEXICO", MX | TNT SERIES LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126400
+
+#EXTINF:-1 tvg-id="Disney JR HD2" tvg-logo="noimage.png" group-title="MEXICO", Disney JR HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70825
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO SIGNATURE HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70899
+
+#EXTINF:-1 tvg-id="VH1 CLASSIC K" tvg-logo="noimage.png" group-title="MUSICA", VH1 CLASSIC K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60478
+
+#EXTINF:-1 tvg-id="MTV HD2" tvg-logo="noimage.png" group-title="MEXICO", MTV HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70858
+
+#EXTINF:-1 tvg-id="I318.19234.schedulesdirect.org" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png" group-title="INFANTIL ESP", Disney Channel Mexico
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/2971
+
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur (720p) [Not 24/7]
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="Entertainment",Central TV (Chosica) (614p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNCCajamarca.pe" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="Undefined",CNC Cajamarca (720p)
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+#EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="Undefined",Hechicera TV (720p)
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Undefined",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel (720p)
+https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="General",Top FM TV (Atalaya) (240p) [Not 24/7]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
